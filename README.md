@@ -5,22 +5,23 @@
 </p>
 
 <p align="center">
-  I'm passionate about building modern web applications and continuously improving my programming skills.
+  Passionate about building modern web applications, exploring new technologies,
+  and continuously improving my programming skills.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 D3 Information Management Student
 - 🌱 Currently learning **Next.js**, **React**, **TypeScript**, and **Node.js**
 - 🔐 Interested in **Cyber Security**
-- 💡 Love solving programming problems and building real-world projects
+- 💡 Love building useful and clean web applications
 - 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -60,7 +61,7 @@
 
 ## 🎯 2026 Goals
 
-- 🚀 Build amazing Full Stack projects
+- 🚀 Build high-quality Full Stack projects
 - 🌍 Contribute to Open Source
 - 🧠 Improve Problem Solving Skills
 - 🔒 Learn Secure Coding
@@ -71,9 +72,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadsTechDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadsTechDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadsTechDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadsTechDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -90,16 +91,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadsTechDev&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/AhmadsTechDev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
