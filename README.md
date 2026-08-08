@@ -1,47 +1,50 @@
-<h1 align="center">Hi there, I'm Ahmad Dhani 👋</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Dhani</h1>
 
 <p align="center">
-  Full Stack Developer Enthusiast • Lifelong Learner • Cyber Security Enthusiast
+  <b>Full Stack Developer Enthusiast</b> • <b>Cyber Security Enthusiast</b>
+</p>
+
+<p align="center">
+  I'm passionate about building modern web applications and continuously improving my programming skills.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 D3 Student in Information Management
-- 🌱 Currently learning React, Next.js, TypeScript, and Node.js
-- 💻 Passionate about Web Development
-- 🔐 Interested in Cyber Security
-- 🚀 Always building projects and improving my skills
+- 🎓 D3 Information Management Student
+- 🌱 Currently learning **Next.js**, **React**, **TypeScript**, and **Node.js**
+- 🔐 Interested in **Cyber Security**
+- 💡 Love solving programming problems and building real-world projects
+- 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
@@ -57,32 +60,50 @@ Git • GitHub • VS Code • Postman • Figma
 
 ## 🎯 2026 Goals
 
-- Build awesome full stack projects
-- Contribute to open source
-- Improve problem solving skills
-- Learn secure coding practices
-- Land a Full Stack Developer internship
+- 🚀 Build amazing Full Stack projects
+- 🌍 Contribute to Open Source
+- 🧠 Improve Problem Solving Skills
+- 🔒 Learn Secure Coding
+- 💼 Land a Full Stack Developer Internship
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadsTechDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadsTechDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AhmadsTechDev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadsTechDev&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+<p>
+<a href="https://github.com/AhmadsTechDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-Thanks for visiting my profile ❤️
+⭐ Thanks for visiting my profile!
 </p>
